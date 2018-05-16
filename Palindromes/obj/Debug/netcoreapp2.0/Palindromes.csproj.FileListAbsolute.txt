@@ -1,0 +1,11 @@
+/Users/benharrington/workspace/c#projects/Palindromes/Palindromes/bin/Debug/netcoreapp2.0/Palindromes.deps.json
+/Users/benharrington/workspace/c#projects/Palindromes/Palindromes/bin/Debug/netcoreapp2.0/Palindromes.runtimeconfig.json
+/Users/benharrington/workspace/c#projects/Palindromes/Palindromes/bin/Debug/netcoreapp2.0/Palindromes.runtimeconfig.dev.json
+/Users/benharrington/workspace/c#projects/Palindromes/Palindromes/bin/Debug/netcoreapp2.0/Palindromes.dll
+/Users/benharrington/workspace/c#projects/Palindromes/Palindromes/bin/Debug/netcoreapp2.0/Palindromes.pdb
+/Users/benharrington/workspace/c#projects/Palindromes/Palindromes/obj/Debug/netcoreapp2.0/Palindromes.csprojAssemblyReference.cache
+/Users/benharrington/workspace/c#projects/Palindromes/Palindromes/obj/Debug/netcoreapp2.0/Palindromes.csproj.CoreCompileInputs.cache
+/Users/benharrington/workspace/c#projects/Palindromes/Palindromes/obj/Debug/netcoreapp2.0/Palindromes.AssemblyInfoInputs.cache
+/Users/benharrington/workspace/c#projects/Palindromes/Palindromes/obj/Debug/netcoreapp2.0/Palindromes.AssemblyInfo.cs
+/Users/benharrington/workspace/c#projects/Palindromes/Palindromes/obj/Debug/netcoreapp2.0/Palindromes.dll
+/Users/benharrington/workspace/c#projects/Palindromes/Palindromes/obj/Debug/netcoreapp2.0/Palindromes.pdb
